@@ -4,10 +4,10 @@ permalink: /
 ---
 # Welcome to Total Hardware 2019
 
-[Hardware](/hardware)
+[Hardware]({{'/hardware' | relative_url}})
 
-[Hardware (images)](/hardware/images)
+[Hardware (images)]({{'/hardware/images' | relative_url}})
 
-[Ports](/ports)
+[Ports]({{'/ports' | relative_url}})
 
-[Ports (images)](/ports/images)
+[Ports (images)]({{'/ports/images' | relative_url }})
