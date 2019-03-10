@@ -7,8 +7,8 @@ port: 'AGP'
 # Gainward
 ## ICUVGA-GW806
 
-![Front]({{'/_pages/cards/img/Gainward_ICUVGA_GW806/front.jpg' | relative_url}})
-![Back]({{'/_pages/cards/img/Gainward_ICUVGA_GW806/back.jpg' | relative_url}})
+![Front]({{'/_pages/cards/img/Gainward_ICUVGA_GW806/front.jpg' | absolute_url}})
+![Back]({{'/_pages/cards/img/Gainward_ICUVGA_GW806/back.jpg' | absolute_url}})
 
 |**INFORMATION**|
 |-|-|

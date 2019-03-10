@@ -9,7 +9,7 @@ permalink: /hardware/images
 ## {{hardware.name}}
         {% for page in site.pages %}
             {% if page.hardware == hardware.name %}
-[![Front]({{page.image | relative_url}})]({{page.url | relative_url}})
+[![Front]({{page.image | absolute_url}})]({{page.url | relative_url}})
             {% endif %}   
         {% endfor %}
     {% endif %}
