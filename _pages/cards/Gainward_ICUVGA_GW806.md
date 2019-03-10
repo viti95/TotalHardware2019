@@ -7,8 +7,8 @@ port: 'AGP'
 # Gainward
 ## ICUVGA-GW806
 
-![Front](/_pages/cards/img/Gainward_ICUVGA_GW806/front.jpg)
-![Back](/_pages/cards/img/Gainward_ICUVGA_GW806/back.jpg)
+![Front]({{'/_pages/cards/img/Gainward_ICUVGA_GW806/front.jpg' | relative_url}})
+![Back]({{'/_pages/cards/img/Gainward_ICUVGA_GW806/back.jpg' | relative_url}})
 
 |**INFORMATION**|
 |-|-|
@@ -37,4 +37,4 @@ port: 'AGP'
 |**ROM**|
 |-|-|
 |**Function**|**Download**|
-|Video bios|[VBIOS](/_pages/cards/bios/Gainward_ICUVGA_GW806/icuvga_gw806.bin)
+|Video bios|[VBIOS]({{'/_pages/cards/bios/Gainward_ICUVGA_GW806/icuvga_gw806.bin' | relative_url}})
