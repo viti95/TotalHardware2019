@@ -1,5 +1,6 @@
 ---
 title: 'Gainward ICUVGA-GW806'
+company: 'Gainward'
 preview: '/_pages/cards/img/Gainward_ICUVGA_GW806/preview.jpg'
 hardware: 'Graphics cards'
 port: 'AGP'
