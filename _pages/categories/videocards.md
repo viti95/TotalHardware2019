@@ -3,7 +3,7 @@ title: Videocards cards
 permalink: /videocards
 exclude_from_search: true
 ---
-# Graphic cards
+# Video cards
 {% assign items_grouped = site.pages | group_by: 'hardware' %}
 {% for hardware in items_grouped  %}
     {% if hardware.name != '' %}

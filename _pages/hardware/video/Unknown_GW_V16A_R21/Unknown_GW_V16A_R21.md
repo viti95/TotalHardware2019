@@ -1,0 +1,53 @@
+---
+title: 'Unknown GW-V16A Rev 2.1'
+company: 'Unknown'
+preview: '/_pages/hardware/video/Unknown_GW_V16A_R21/img/preview.jpg'
+hardware: 'Video cards'
+port: 'ISA 16-bit'
+---
+# Unknown
+## GW-V16A Rev 2.1
+
+![Front]({{'/_pages/hardware/video/Unknown_GW_V16A_R21/img/front.jpg' | relative_url}})
+![Back]({{'/_pages/hardware/video/Unknown_GW_V16A_R21/img/back.jpg' | relative_url}})
+
+|**INFORMATION**|
+|-|-|
+|**Card type**|Video card|
+|**FCC ID**||
+|**Video chipset**|Chips F82C450|
+|**Video memory**||
+|**Video types supported**|Monochrome, CGA, EGA, VGA|
+|**Highest Resolution Supported**||
+|**Data bus**|ISA 16-bit|
+
+|**CONNECTIONS**|
+|-|-|
+|**Function**|**Label**|
+|-|-|
+|15-pin analog video port (VGA)|J1|
+
+|**SETTINGS**|
+|-|-|
+|**Function**|**Label**|
+|Unknown|JP1|
+|Unknown|JP2|
+|Unknown|JP3|
+|Unknown|JP4|
+|Unknown|JP5|
+|Unknown|JP6|
+
+
+|**MAIN ICS**|
+|-|-|-|
+|**Function**|**Label**|**IC**|
+|Video bios|U5,U10|Texas Instruments TMS27C256|
+|GPU|U8|Chips F82C450|
+|Video ram|U1,U2,U6,U7|AAA1M304P-07|
+|Programmable array logic|U9|PAL16L8ANC| 
+
+|**ROM**|
+|-|-|
+|**Function**|**Size**|**Download**|
+|Unknown|64&nbsp;KB|[U5.bin]({{'/_pages/hardware/video/Unknown_GW_V16A_R21/bios/U5.bin' | relative_url}})
+|Chips 450 VGA BIOS Version 1.0.1|64&nbsp;KB|[U10.bin]({{'/_pages/hardware/video/Unknown_GW_V16A_R21/bios/U10.bin' | relative_url}})
