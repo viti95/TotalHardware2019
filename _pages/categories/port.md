@@ -1,6 +1,7 @@
 ---
 title: Cards by port
 permalink: /ports
+exclude_from_search: true
 ---
 # Cards by port
 {% assign items_grouped = site.pages | group_by: 'port' %}

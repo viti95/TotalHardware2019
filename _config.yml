@@ -1,2 +1,5 @@
 theme: jekyll-theme-minimal
 include: ['_pages']
+tipue_search:
+  include:
+    pages: true

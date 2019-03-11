@@ -1,6 +1,7 @@
 ---
 title: Cards by company
 permalink: /company
+exclude_from_search: true
 ---
 # Cards by company
 {% assign items_grouped = site.pages | group_by: 'company' %}
