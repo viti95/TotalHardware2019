@@ -38,4 +38,4 @@ port: 'AGP'
 |**ROM**|
 |-|-|
 |**Function**|**Size**|**Download**|
-|ATI MACH64 GT-B EDO (DUAL CYCLE) BIOS 3.089 (1998/04/27 16:14)|64&nbsp;kB|[.bin]({{'/_pages/cards/bios/Gainward_ICUVGA_GW806/icuvga_gw806.bin' | relative_url}})
+|ATI MACH64 GT-B EDO (DUAL CYCLE) BIOS 3.089 (1998/04/27 16:14)|64&nbsp;KB|[.bin]({{'/_pages/cards/bios/Gainward_ICUVGA_GW806/icuvga_gw806.bin' | relative_url}})
