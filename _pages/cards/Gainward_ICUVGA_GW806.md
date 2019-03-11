@@ -2,7 +2,7 @@
 title: 'Gainward ICUVGA-GW806'
 company: 'Gainward'
 preview: '/_pages/cards/img/Gainward_ICUVGA_GW806/preview.jpg'
-hardware: 'Graphics cards'
+hardware: 'Video cards'
 port: 'AGP'
 ---
 # Gainward
@@ -19,7 +19,7 @@ port: 'AGP'
 |**Video memory**||
 |**Video types supported**|Monochrome, CGA, EGA, VGA, XVGA|
 |**Highest Resolution Supported**||
-|**Data bus**|AGP 2x|
+|**Data bus**|AGP 1x|
 
 |**CONNECTIONS**|
 |-|-|
@@ -37,5 +37,5 @@ port: 'AGP'
 
 |**ROM**|
 |-|-|
-|**Function**|**Download**|
-|ATI MACH64 EDO (DUAL CYCLE) BIOS 3.089 (1998/04/27 16:14)|[.bin]({{'/_pages/cards/bios/Gainward_ICUVGA_GW806/icuvga_gw806.bin' | relative_url}})
+|**Function**|**Size**|**Download**|
+|ATI MACH64 GT-B EDO (DUAL CYCLE) BIOS 3.089 (1998/04/27 16:14)|64&nbsp;kB|[.bin]({{'/_pages/cards/bios/Gainward_ICUVGA_GW806/icuvga_gw806.bin' | relative_url}})
