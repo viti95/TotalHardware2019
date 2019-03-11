@@ -1,5 +1,8 @@
 theme: jekyll-theme-minimal
+title: ['Total Hardware 2019']
+description: ['Open source hardware encyclopedia']
 include: ['_pages']
+show_downloads: true
 tipue_search:
   include:
     pages: true
