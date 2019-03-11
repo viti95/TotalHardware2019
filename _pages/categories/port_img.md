@@ -9,7 +9,7 @@ permalink: /ports/images
 ## {{port.name}}
         {% for page in site.pages %}
             {% if page.port == port.name %}
-[![Front]({{page.image | absolute_url}})]({{page.url | relative_url}})
+[![Preview]({{page.preview | relative_url}})]({{page.url | relative_url}})
             {% endif %}            
         {% endfor %}
     {% endif %}

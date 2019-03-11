@@ -1,6 +1,6 @@
 ---
 title: 'Gainward ICUVGA-GW806'
-image: '/_pages/cards/img/Gainward_ICUVGA_GW806/front.jpg'
+preview: '/_pages/cards/img/Gainward_ICUVGA_GW806/preview.jpg'
 hardware: 'Graphics cards'
 port: 'AGP'
 ---
@@ -37,4 +37,4 @@ port: 'AGP'
 |**ROM**|
 |-|-|
 |**Function**|**Download**|
-|Video bios|[VBIOS]({{'/_pages/cards/bios/Gainward_ICUVGA_GW806/icuvga_gw806.bin' | relative_url}})
+|ATI MACH64 EDO (DUAL CYCLE) BIOS 3.089 (1998/04/27 16:14)|[.bin]({{'/_pages/cards/bios/Gainward_ICUVGA_GW806/icuvga_gw806.bin' | relative_url}})
