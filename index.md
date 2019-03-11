@@ -5,14 +5,18 @@ exclude_from_search: true
 ---
 # Welcome to Total Hardware 2019
 
-[Search]({{'/search' | relative_url}})
+[Search cards]({{'/search' | relative_url}})
 
-[Company]({{'/company' | relative_url}})
+[Companies]({{'/company' | relative_url}})
 
-[Hardware]({{'/hardware' | relative_url}})
+---
 
-[Hardware (images)]({{'/hardware/images' | relative_url}})
+[All hardware]({{'/hardware' | relative_url}}) ([images]({{'/hardware/images' | relative_url}}))
 
-[Ports]({{'/ports' | relative_url}})
+---
 
-[Ports (images)]({{'/ports/images' | relative_url }})
+[Video cards]({{'/videocards' | relative_url}}) ([images]({{'/videocards/images' | relative_url}}))
+
+---
+
+[Cards by port]({{'/ports' | relative_url}}) ([images]({{'/ports/images' | relative_url }}))
