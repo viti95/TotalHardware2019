@@ -43,8 +43,8 @@ port: 'ISA 16-bit'
 |**Function**|**Label**|**IC**|
 |Video bios|U5,U10|Texas Instruments TMS27C256|
 |GPU|U8|Chips F82C450|
-|Video ram|U1,U2,U6,U7|AAA1M304P-07|
-|Programmable array logic|U9|PAL16L8ANC| 
+|Video ram|U1,U2,U6,U7|NMB Semiconductor AAA1M304P-07|
+|Programmable array logic|U9|National Semiconductor PAL16L8ANC| 
 
 |**ROM**|
 |-|-|
