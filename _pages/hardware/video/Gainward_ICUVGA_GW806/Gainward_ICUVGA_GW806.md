@@ -26,7 +26,7 @@ port: 'AGP'
 |**Function**|**Label**|
 |-|-|
 |15-pin analog video port (VGA)|CN1|
-|Feature connector (VGA)|CN2|
+|ATI Multimedia Channel|CN2|
 
 |**MAIN ICS**|
 |-|-|-|

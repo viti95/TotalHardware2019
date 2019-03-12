@@ -18,7 +18,7 @@ port: 'ISA 16-bit'
 |**Video chipset**|Chips F82C450|
 |**Video memory**||
 |**Video types supported**|Monochrome, CGA, EGA, VGA|
-|**Highest Resolution Supported**||
+|**Highest Resolution Supported**|1024x768 4 bit color|
 |**Data bus**|ISA 16-bit|
 
 |**CONNECTIONS**|
@@ -49,5 +49,5 @@ port: 'ISA 16-bit'
 |**ROM**|
 |-|-|
 |**Function**|**Size**|**Download**|
-|Unknown|64&nbsp;KB|[U5.bin]({{'/_pages/hardware/video/Unknown_GW_V16A_R21/bios/U5.bin' | relative_url}})
-|Chips 450 VGA BIOS Version 1.0.1|64&nbsp;KB|[U10.bin]({{'/_pages/hardware/video/Unknown_GW_V16A_R21/bios/U10.bin' | relative_url}})
+|Extended BIOS (16 bit)|32&nbsp;KB|[U5.bin]({{'/_pages/hardware/video/Unknown_GW_V16A_R21/bios/U5.bin' | relative_url}})
+|Chips 450 VGA BIOS Version 1.0.1|32&nbsp;KB|[U10.bin]({{'/_pages/hardware/video/Unknown_GW_V16A_R21/bios/U10.bin' | relative_url}})
