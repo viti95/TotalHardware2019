@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://viti95.github.io/TotalHardware2019/sitemap.xml
