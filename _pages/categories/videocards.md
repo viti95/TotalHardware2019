@@ -1,5 +1,5 @@
 ---
-title: Videocards cards
+title: Video cards
 permalink: /videocards
 exclude_from_search: true
 ---
