@@ -7,3 +7,5 @@ show_downloads: true
 tipue_search:
   include:
     pages: true
+plugins:
+  - jekyll-sitemap
