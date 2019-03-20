@@ -2,7 +2,7 @@
 title: 'DTK Computer PTI-218 V.G.A. CARD'
 company: 'DTK Computer'
 preview: '/_pages/hardware/video/DTK_Computer_PTI_218/img/preview.jpg'
-hardware: 'Video cards'
+hardware: 'Videocard'
 port: 'ISA 16-bit'
 ---
 # DTK Computer

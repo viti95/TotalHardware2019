@@ -17,6 +17,8 @@ exclude_from_search: true
 
 [Video cards]({{'/videocards' | relative_url}}) ([images]({{'/videocards/images' | relative_url}}))
 
+[Modems]({{'/modems' | relative_url}}) ([images]({{'/modems/images' | relative_url}}))
+
 ---
 
 [Cards by port]({{'/ports' | relative_url}}) ([images]({{'/ports/images' | relative_url }}))

@@ -1,11 +1,11 @@
 ---
-title: Video cards
-permalink: /videocards
+title: Modems
+permalink: /modems
 exclude_from_search: true
 ---
-# Video cards
+# Modems
 {% for page in site.pages %}
-    {% if page.hardware == 'Videocard' %}
+    {% if page.hardware == 'Modem' %}
 [{{page.title}}]({{page.url | relative_url}})
     {% endif %}
 {% endfor %}

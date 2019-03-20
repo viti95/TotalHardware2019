@@ -2,7 +2,7 @@
 title: 'Unknown GW-V16A Rev 2.1'
 company: 'Unknown'
 preview: '/_pages/hardware/video/Unknown_GW_V16A_R21/img/preview.jpg'
-hardware: 'Video cards'
+hardware: 'Videocard'
 port: 'ISA 16-bit'
 ---
 # Unknown
