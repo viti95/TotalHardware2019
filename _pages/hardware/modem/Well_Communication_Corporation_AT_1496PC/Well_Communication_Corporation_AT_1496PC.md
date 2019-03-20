@@ -5,8 +5,8 @@ preview: '/_pages/hardware/modem/Well_Communication_Corporation_AT_1496PC/img/pr
 hardware: 'Modem'
 port: 'ISA 8-bit'
 ---
-#  Well Communication Corporation 
-## AT-1496PC
+##  Well Communication Corporation 
+### AT-1496PC
 
 ![Front]({{'/_pages/hardware/modem/Well_Communication_Corporation_AT_1496PC/img/front.jpg' | relative_url}})
 ![Back]({{'/_pages/hardware/modem/Well_Communication_Corporation_AT_1496PC/img/back.jpg' | relative_url}})

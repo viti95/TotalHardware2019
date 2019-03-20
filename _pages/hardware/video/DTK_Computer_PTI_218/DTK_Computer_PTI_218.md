@@ -5,8 +5,8 @@ preview: '/_pages/hardware/video/DTK_Computer_PTI_218/img/preview.jpg'
 hardware: 'Videocard'
 port: 'ISA 16-bit'
 ---
-# DTK Computer
-## PTI-218 V.G.A. CARD
+## DTK Computer
+### PTI-218 V.G.A. CARD
 
 ![Front]({{'/_pages/hardware/video/DTK_Computer_PTI_218/img/front.jpg' | relative_url}})
 ![Back]({{'/_pages/hardware/video/DTK_Computer_PTI_218/img/back.jpg' | relative_url}})

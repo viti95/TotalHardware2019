@@ -3,7 +3,7 @@ title: Total Hardware 2019
 permalink: /
 exclude_from_search: true
 ---
-# Welcome to Total Hardware 2019
+## Welcome to Total Hardware 2019
 
 [Search cards]({{'/search' | relative_url}})
 
