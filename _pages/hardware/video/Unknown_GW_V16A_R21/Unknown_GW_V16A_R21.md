@@ -14,10 +14,8 @@ port: 'ISA 16-bit'
 |**INFORMATION**|
 |-|-|
 |**Card type**|Video card|
-|**FCC ID**||
 |**Video chipset**|Chips F82C450|
-|**Video memory**||
-|**Video types supported**|Monochrome, CGA, EGA, VGA|
+|**Video types supported**|MDA, CGA, EGA, VGA|
 |**Highest Resolution Supported**|1024x768 4 bit color|
 |**Data bus**|ISA 16-bit|
 

@@ -14,11 +14,9 @@ port: 'ISA 16-bit'
 |**INFORMATION**|
 |-|-|
 |**Card type**|Video card|
-|**FCC ID**||
 |**Video chipset**|Trident TVGA 8800CS|
 |**Video memory**|256KB DRAM (upgradable to 512KB)|
-|**Video types supported**|Monochrome, CGA, EGA, VGA|
-|**Highest Resolution Supported**||
+|**Video types supported**|MDA, CGA, EGA, VGA|
 |**Data bus**|ISA 16-bit|
 
 |**CONNECTIONS**|

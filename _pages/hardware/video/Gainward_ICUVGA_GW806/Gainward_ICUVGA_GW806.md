@@ -16,9 +16,7 @@ port: 'AGP'
 |**Card type**|Video card|
 |**FCC ID**|ICUVGA-GW806|
 |**Video chipset**|ATI 3D Rage IIC AGP|
-|**Video memory**||
-|**Video types supported**|Monochrome, CGA, EGA, VGA, XVGA|
-|**Highest Resolution Supported**||
+|**Video types supported**|MDA, CGA, EGA, VGA, XVGA|
 |**Data bus**|AGP 1x|
 
 |**CONNECTIONS**|
