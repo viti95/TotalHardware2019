@@ -4,12 +4,14 @@ company: 'Gainward'
 preview: '/_pages/hardware/video/Gainward_ICUVGA_GW806/img/preview.jpg'
 hardware: 'Videocard'
 port: 'AGP'
+front: '/_pages/hardware/video/Gainward_ICUVGA_GW806/img/front.jpg'
+back: '/_pages/hardware/video/Gainward_ICUVGA_GW806/img/back.jpg'
 ---
 ## Gainward
 ### ICUVGA-GW806
 
-![Front]({{'/_pages/hardware/video/Gainward_ICUVGA_GW806/img/front.jpg' | relative_url}})
-![Back]({{'/_pages/hardware/video/Gainward_ICUVGA_GW806/img/back.jpg' | relative_url}})
+[![Front]({{page.front | relative_url}})]({{page.front | relative_url}})
+[![Back]({{page.back | relative_url}})]({{page.back | relative_url}})
 
 |**INFORMATION**|
 |-|-|

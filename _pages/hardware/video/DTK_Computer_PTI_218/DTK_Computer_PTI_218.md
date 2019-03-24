@@ -4,12 +4,14 @@ company: 'DTK Computer'
 preview: '/_pages/hardware/video/DTK_Computer_PTI_218/img/preview.jpg'
 hardware: 'Videocard'
 port: 'ISA 16-bit'
+front: '/_pages/hardware/video/DTK_Computer_PTI_218/img/front.jpg'
+back: '/_pages/hardware/video/DTK_Computer_PTI_218/img/back.jpg'
 ---
 ## DTK Computer
 ### PTI-218 V.G.A. CARD
 
-![Front]({{'/_pages/hardware/video/DTK_Computer_PTI_218/img/front.jpg' | relative_url}})
-![Back]({{'/_pages/hardware/video/DTK_Computer_PTI_218/img/back.jpg' | relative_url}})
+[![Front]({{page.front | relative_url}})]({{page.front | relative_url}})
+[![Back]({{page.back | relative_url}})]({{page.back | relative_url}})
 
 |**INFORMATION**|
 |-|-|

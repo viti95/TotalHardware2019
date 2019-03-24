@@ -4,12 +4,14 @@ company: 'Unknown'
 preview: '/_pages/hardware/video/Unknown_GW_V16A_R21/img/preview.jpg'
 hardware: 'Videocard'
 port: 'ISA 16-bit'
+front: '/_pages/hardware/video/Unknown_GW_V16A_R21/img/front.jpg'
+back: '/_pages/hardware/video/Unknown_GW_V16A_R21/img/back.jpg'
 ---
 ## Unknown
 ### GW-V16A Rev 2.1
 
-![Front]({{'/_pages/hardware/video/Unknown_GW_V16A_R21/img/front.jpg' | relative_url}})
-![Back]({{'/_pages/hardware/video/Unknown_GW_V16A_R21/img/back.jpg' | relative_url}})
+[![Front]({{page.front | relative_url}})]({{page.front | relative_url}})
+[![Back]({{page.back | relative_url}})]({{page.back | relative_url}})
 
 |**INFORMATION**|
 |-|-|

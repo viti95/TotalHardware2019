@@ -4,12 +4,14 @@ company: 'Well Communication Corporation'
 preview: '/_pages/hardware/modem/Well_Communication_Corporation_AT_1496PC/img/preview.jpg'
 hardware: 'Modem'
 port: 'ISA 8-bit'
+front: '/_pages/hardware/modem/Well_Communication_Corporation_AT_1496PC/img/front.jpg'
+back: '/_pages/hardware/modem/Well_Communication_Corporation_AT_1496PC/img/back.jpg'
 ---
 ##  Well Communication Corporation 
 ### AT-1496PC
 
-![Front]({{'/_pages/hardware/modem/Well_Communication_Corporation_AT_1496PC/img/front.jpg' | relative_url}})
-![Back]({{'/_pages/hardware/modem/Well_Communication_Corporation_AT_1496PC/img/back.jpg' | relative_url}})
+[![Front]({{page.front | relative_url}})]({{page.front | relative_url}})
+[![Back]({{page.back | relative_url}})]({{page.back | relative_url}})
 
 |**INFORMATION**|
 |-|-|
