@@ -33,7 +33,7 @@ back: '/_pages/hardware/video/Gainward_ICUVGA_GW806/img/back.jpg'
 |**Function**|**Label**|**IC**|
 |Video bios|U3|Atmel AT27C512R|
 |GPU|U4|ATI 3D Rage IIC AGP|
-|Video ram|U5,U6,U7,U8|Mosel-Vitelic Corp. 9903F V53C832HQ35|
+|Video ram|U5,U6,U7,U8|Mosel-Vitelic Corp. V53C832HQ35|
 
 |**ROM**|
 |-|-|
