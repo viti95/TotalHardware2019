@@ -30,6 +30,11 @@ back: '/_pages/hardware/video/DDTT_DT_5138/img/back.jpg'
 
 |**MAIN ICS**|
 |-|-|-|
-|**Function**|**Label**|**IC**|
-|GPU|U2|Tamarack TD3088A|
+|**Function**|**Label**|**IC**|**Datasheet**|
+|GPU|U2|Tamarack TD3088A||
 |Video ram|U3,U5|Samsung KM41464AP-12|
+
+|**DATASHEETS**|
+|-|-|
+|**IC**|**Datasheet**|
+|Samsung KM41464AP-12|[Samsung_KM41464A.pdf]({{'/_pages/datasheets/ram/Samsung_KM41464A.pdf' | relative_url}})|
