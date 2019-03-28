@@ -53,4 +53,4 @@ back: '/_pages/hardware/modem/Well_Communication_Corporation_AT_1496PC/img/back.
 |**ROM**|
 |-|-|
 |**Function**|**Size**|**Download**|
-|Unknown|64&nbsp;KB|[JCHAT_1496PC.bin]({{'/_pages/hardware/modem/Well_Communication_Corporation_AT_1496PC/bios/JCHAT_1496PC.bin' | relative_url}})
+|Unknown|64&nbsp;KB|[JCHAT_1496PC.bin]({{'/_pages/hardware/modem/Well_Communication_Corporation_AT_1496PC/bios/JCHAT_1496PC.bin' | relative_url}})|

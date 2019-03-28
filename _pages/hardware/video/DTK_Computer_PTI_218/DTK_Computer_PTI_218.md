@@ -42,11 +42,16 @@ back: '/_pages/hardware/video/DTK_Computer_PTI_218/img/back.jpg'
 |**Function**|**Label**|**IC**|
 |Video bios|U5,U10|ST M27256|
 |GPU|U17|Trident TVGA 8800CS|
-|Video ram|U1..U16|NMB Semiconductor 9026 V53C464AP80|
+|Video ram|U1..U16|Mosel Vitelic V53C464AP80|
 |Programmable array logic|U30,U31|National Semiconductor PAL16L8ANC| 
 
 |**ROM**|
 |-|-|
 |**Function**|**Size**|**Download**|
-|TVGA BIOS D4-131 Ver 1.10 High|32&nbsp;KB|[U24.bin]({{'/_pages/hardware/video/DTK_Computer_PTI_218/bios/U24.bin' | relative_url}})
-|TVGA BIOS D4-131 Ver 1.10 Low|32&nbsp;KB|[U25.bin]({{'/_pages/hardware/video/DTK_Computer_PTI_218/bios/U25.bin' | relative_url}})
+|TVGA BIOS D4-131 Ver 1.10 High|32&nbsp;KB|[U24.bin]({{'/_pages/hardware/video/DTK_Computer_PTI_218/bios/U24.bin' | relative_url}})|
+|TVGA BIOS D4-131 Ver 1.10 Low|32&nbsp;KB|[U25.bin]({{'/_pages/hardware/video/DTK_Computer_PTI_218/bios/U25.bin' | relative_url}})|
+
+|**DATASHEETS**|
+|-|-|
+|**IC**|**Datasheet**|
+|Mosel Vitelic V53C464AP80|[Mosel_Vitelic_V53C464A.pdf]({{'/_pages/datasheets/ram/Mosel_Vitelic_V53C464A.pdf' | relative_url}})|
